@@ -5,9 +5,9 @@
 
 
 ### Set-Up
-* Create a new project in your Eclipse workspace named:  Lab09
-* In the src folder, create a package named:  edu.ilstu.it275.lab09.<ulid>
-* Import the input file, Collection.txt, into the root of your project.
+* Create a new project in your Eclipse workspace named:  `Lab09`
+* In the src folder, create a package named: `edu.ilstu.it275.lab09.<ulid>`
+* Import the input file, `Collection.txt`, into the root of your project.
 
 ### Problem
 You will be writing a program to read a list of Songs from a file and display them to the screen.  
