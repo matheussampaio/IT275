@@ -4,6 +4,10 @@
 
 Assignments and Labs code for the IT 275 class.
 
+| Test | Score | Out of |
+| ---- | :---: | :--: |
+Test 1 | 104 | 132
+
 | Program | Score | Out of |
 | ---- | :---: | :--: |
 Program 1 | **50** | 50
